@@ -1,2 +1,2 @@
 print("demo")
-print("class")
+# print("class")
